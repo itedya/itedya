@@ -2,5 +2,5 @@
 
 rust my beloved
 
-looking for job
+looking for job  
 contact: bdomanski@domanscy.group
