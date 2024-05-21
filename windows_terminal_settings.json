@@ -1,56 +1,119 @@
 {
     "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
-    "actions": [
-      {
-        "command": {
-          "action": "copy",
-          "singleLine": false
-        },
-        "keys": "ctrl+c"
+  "actions": [
+    {
+      "command": {
+        "action": "switchToTab",
+        "index": 0
       },
-      {
-        "command": "paste",
-        "keys": "ctrl+v"
+      "keys": "ctrl+alt+1"
+    },
+    {
+      "command": {
+        "action": "switchToTab",
+        "index": 1
       },
-      {
-        "command": {
-          "action": "splitPane",
-          "split": "auto",
-          "splitMode": "duplicate"
-        },
-        "keys": "alt+shift+d"
+      "keys": "ctrl+alt+2"
+    },
+    {
+      "command": {
+        "action": "switchToTab",
+        "index": 2
       },
-      {
-        "command": "find",
-        "keys": "ctrl+shift+f"
+      "keys": "ctrl+alt+3"
+    },
+    {
+      "command": {
+        "action": "switchToTab",
+        "index": 3
       },
-      {
-        "command": {
-          "action": "newTab",
-          "index": 0
-        },
-        "keys": "ctrl+alt+n"
+      "keys": "ctrl+alt+4"
+    },
+    {
+      "command": {
+        "action": "switchToTab",
+        "index": 4
       },
-      {
-        "command": {
-          "action": "closeTab"
-        },
-        "keys": "ctrl+alt+w"
+      "keys": "ctrl+alt+5"
+    },
+    {
+      "command": {
+        "action": "switchToTab",
+        "index": 5
       },
-      {
-        "command": {
-          "action": "openTabRenamer"
-        },
-        "keys": "ctrl+alt+r"
+      "keys": "ctrl+alt+6"
+    },
+    {
+      "command": {
+        "action": "switchToTab",
+        "index": 6
       },
-      {
-        "command": {
-          "action": "openTabColorPicker"
-        },
-        "keys": "ctrl+alt+c"
-      }
-    ],
+      "keys": "ctrl+alt+7"
+    },
+    {
+      "command": {
+        "action": "switchToTab",
+        "index": 7
+      },
+      "keys": "ctrl+alt+8"
+    },
+    {
+      "command": {
+        "action": "switchToTab",
+        "index": 8
+      },
+      "keys": "ctrl+alt+9"
+    },
+    {
+      "command": {
+        "action": "copy",
+        "singleLine": false
+      },
+      "keys": "ctrl+c"
+    },
+    {
+      "command": "paste",
+      "keys": "ctrl+v"
+    },
+    {
+      "command": {
+        "action": "splitPane",
+        "split": "auto",
+        "splitMode": "duplicate"
+      },
+      "keys": "alt+shift+d"
+    },
+    {
+      "command": "find",
+      "keys": "ctrl+shift+f"
+    },
+    {
+      "command": {
+        "action": "newTab",
+        "index": 0
+      },
+      "keys": "ctrl+alt+n"
+    },
+    {
+      "command": {
+        "action": "closeTab"
+      },
+      "keys": "ctrl+alt+w"
+    },
+    {
+      "command": {
+        "action": "openTabRenamer"
+      },
+      "keys": "ctrl+alt+r"
+    },
+    {
+      "command": {
+        "action": "openTabColorPicker"
+      },
+      "keys": "ctrl+alt+c"
+    }
+  ],
     "copyFormatting": "none",
     "copyOnSelect": false,
     "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
