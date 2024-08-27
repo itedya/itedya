@@ -1,6 +1,6 @@
 # Bartłomiej Domański
 
-rust my beloved
+go my beloved
 
 currently coding in Domańscy Group repositories, [click here](https://github.com/GrupaDomanscy)
 
