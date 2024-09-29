@@ -1,8 +1,6 @@
 # Bartłomiej Domański
 
-go my beloved
-
-currently coding in Domańscy Group repositories, [click here](https://github.com/GrupaDomanscy)
+rust & go my beloved
 
 looking for job  
 contact: bdomanski@domanscy.group
