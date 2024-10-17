@@ -1,6 +1,6 @@
 # Bartłomiej Domański
 
-rust & go my beloved
+i make some sutff in c, rust and sometimes golang
 
 looking for job  
 contact: bdomanski@domanscy.group
